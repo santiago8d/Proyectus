@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="este_es_tu_estilo.xsl"?>
+<paginas>
+    <pagina>
+      <nombre>Este es tu estilo</nombre>
+      <url>https://github.com/santiago8d/Proyecto/blob/master/index.html</url>
+      <descr>descubre tu estilo</descr>
+    </pagina>
+    <pagina>
+      <nombre>Mi estilo</nombre>
+      <url>https://github.com/santiago8d/Proyecto/tree/master/assets/hmtl/mi_estilo.html</url>
+      <descr>Observa mi estilo</descr>
+    </pagina>
+    <pagina>
+      <nombre>Mas estilos</nombre>
+      <url>https://github.com/santiago8d/Proyecto/tree/master/assets/hmtl/mas_estilos.html</url>
+      <descr>Descubre mas estilos</descr>
+    </pagina>
+</paginas>
